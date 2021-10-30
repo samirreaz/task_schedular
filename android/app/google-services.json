@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370463855946",
+    "project_id": "taskschedular-d287f",
+    "storage_bucket": "taskschedular-d287f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370463855946:android:9763e6f70e34073c441db3",
+        "android_client_info": {
+          "package_name": "com.example.task_schedular"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370463855946-iiqdu5i36d9jpf98lnd8qngvjrs9r312.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO7YGDmKG3DBcK4BCqpq8V9NakVjzDZjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370463855946-iiqdu5i36d9jpf98lnd8qngvjrs9r312.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
